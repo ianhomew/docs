@@ -1,6 +1,7 @@
 # AVAIL 輕客戶端，做任務，取得 NFT。
 
 [任務網址](https://lightclient.availproject.org)
+mint NFT 需要水 [領水網址](https://faucet.avail.tools)
 
 ### 任務內容
 1. Follow Avail on Twitter
