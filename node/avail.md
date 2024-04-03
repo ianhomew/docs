@@ -1,6 +1,6 @@
-# AVAIL 輕客戶端
+# AVAIL 輕客戶端，做任務，取得 NFT。
 
-## 做任務，取得 NFT
+[任務網址](https://lightclient.availproject.org)
 
 ### 任務內容
 1. Follow Avail on Twitter
@@ -10,12 +10,11 @@
 5. Follow Blobscriptions on Twitter
 6. Join Blobscriptions Telegram
 
-### 重點關注第四個任務，必須先有輕客戶端
-### 如何取得 "public key"
+### 關注第四個任務，必須先有輕客戶端: 如何取得 "public key"
 
 ### 1. 進去 avail test explorer
-方式1: 輸入 https://avail-testnet.subscan.io/account/錢包地址 
-方式2: 進入 https://avail-testnet.subscan.io 輸入自己的錢包地址
+- 方式1: 輸入 https://avail-testnet.subscan.io/account/錢包地址 
+- 方式2: 進入 https://avail-testnet.subscan.io 輸入自己的錢包地址
 
 ### 2. 取得 public key 
 如下圖，對地址點一下即可複製。
@@ -26,6 +25,7 @@
 
 ### 4. 點選 mint NFT
 
+### 5. 結束
 
 
 
